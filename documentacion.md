@@ -15,5 +15,5 @@
 12. Antes de subir los cambios en el mismo archivo se intenta unir haciendo uso del comando merge
 13. Para solucionar el conflicto se elimina y se deja el cambio que se quiere conservar
 14. Creamos el tag y con git log verficamos que este correctamente
-15. Por ultimo subimos los cambios a git con el comando git push origin v1.0.0.0
+15. Subimos los cambios a git con el comando git push origin v1.0.0.0
 16. Para finalizar subimos el archivo documentacion.md al repositorio de git
